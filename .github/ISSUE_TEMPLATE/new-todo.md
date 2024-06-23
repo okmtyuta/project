@@ -1,11 +1,17 @@
 ---
-name: New Todo
+name: New todo
 about: Create a new todo
 title: ""
-labels: ""
+labels: []
 assignees: ""
 ---
 
-# Todo
+### Description
 
-## Related information
+### What to do
+
+- [ ] what-to-do
+
+### Instruction
+
+### Related information
