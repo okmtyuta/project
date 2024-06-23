@@ -1,0 +1,6 @@
+.DS_Store
+todo-env
+__pycache__
+.env
+target
+.mypy_cache
